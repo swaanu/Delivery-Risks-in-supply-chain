@@ -1,0 +1,177 @@
+,,0,1
+Days for shipment (scheduled),count,81542.0,98977.0
+Days for shipment (scheduled),mean,3.491145667263496,2.471069036240743
+Days for shipment (scheduled),std,1.1510719652488874,1.3725395578240143
+Days for shipment (scheduled),min,0.0,0.0
+Days for shipment (scheduled),25%,4.0,1.0
+Days for shipment (scheduled),50%,4.0,2.0
+Days for shipment (scheduled),75%,4.0,4.0
+Days for shipment (scheduled),max,4.0,4.0
+Benefit per order,count,81542.0,98977.0
+Benefit per order,mean,22.40380775984874,21.621706878333054
+Benefit per order,std,103.16325314161827,105.46775400286421
+Benefit per order,min,-3366.0,-4274.97998
+Benefit per order,25%,7.170000076,6.860000134
+Benefit per order,50%,31.68000031,31.43000031
+Benefit per order,75%,65.0,64.73999786
+Benefit per order,max,864.0,911.7999878
+Sales per customer,count,81542.0,98977.0
+Sales per customer,mean,183.6090246003419,182.6945178804726
+Sales per customer,std,121.42871642091126,118.88950667684064
+Sales per customer,min,7.489999771,7.489999771
+Sales per customer,25%,105.5599976,103.9899979
+Sales per customer,50%,163.9900055,163.9900055
+Sales per customer,75%,247.5,247.3999939
+Sales per customer,max,1889.98999,1939.98999
+Late_delivery_risk,count,81542.0,98977.0
+Late_delivery_risk,mean,0.0,1.0
+Late_delivery_risk,std,0.0,0.0
+Late_delivery_risk,min,0.0,1.0
+Late_delivery_risk,25%,0.0,1.0
+Late_delivery_risk,50%,0.0,1.0
+Late_delivery_risk,75%,0.0,1.0
+Late_delivery_risk,max,0.0,1.0
+Category Id,count,81542.0,98977.0
+Category Id,mean,31.821270020357606,31.876314699374603
+Category Id,std,15.62034750710066,15.656323708955192
+Category Id,min,2.0,2.0
+Category Id,25%,18.0,18.0
+Category Id,50%,29.0,29.0
+Category Id,75%,45.0,45.0
+Category Id,max,76.0,76.0
+Department Id,count,81542.0,98977.0
+Department Id,mean,5.441527065806579,5.445052891075704
+Department Id,std,1.626438932908123,1.6315615250129414
+Department Id,min,2.0,2.0
+Department Id,25%,4.0,4.0
+Department Id,50%,5.0,5.0
+Department Id,75%,7.0,7.0
+Department Id,max,12.0,12.0
+Latitude,count,81542.0,98977.0
+Latitude,mean,29.71261392168085,29.72600231610576
+Latitude,std,9.830415156398974,9.799855348182941
+Latitude,min,-33.93755341,-33.93755341
+Latitude,25%,18.26504135,18.26570511
+Latitude,50%,33.12691498,33.1824913
+Latitude,75%,39.29779434,39.26262665
+Latitude,max,48.77095795,48.78193283
+Longitude,count,81542.0,98977.0
+Longitude,mean,-84.87045742223124,-84.95292684007931
+Longitude,std,21.380090814665078,21.476966654429205
+Longitude,min,-158.0259857,-158.0259857
+Longitude,25%,-98.46685791,-98.44306946
+Longitude,50%,-76.71038055,-76.93193817
+Longitude,75%,-66.37058258,-66.37058258
+Longitude,max,115.2630768,115.2630768
+Order Item Discount,count,81542.0,98977.0
+Order Item Discount,mean,20.68275295174688,20.649902112624396
+Order Item Discount,std,21.937551792853604,21.68777429188735
+Order Item Discount,min,0.0,0.0
+Order Item Discount,25%,5.5,5.400000095
+Order Item Discount,50%,14.03999996,14.0
+Order Item Discount,75%,29.98999977,30.0
+Order Item Discount,max,500.0,375.0
+Order Item Discount Rate,count,81542.0,98977.0
+Order Item Discount Rate,mean,0.10163682569273504,0.10169403042751346
+Order Item Discount Rate,std,0.07017904465612085,0.07060953444126963
+Order Item Discount Rate,min,0.0,0.0
+Order Item Discount Rate,25%,0.039999999,0.039999999
+Order Item Discount Rate,50%,0.100000001,0.090000004
+Order Item Discount Rate,75%,0.159999996,0.159999996
+Order Item Discount Rate,max,0.25,0.25
+Order Item Product Price,count,81542.0,98977.0
+Order Item Product Price,mean,141.56742410153484,140.95666452298778
+Order Item Product Price,std,141.26663911585723,138.455924178726
+Order Item Product Price,min,9.989999771,9.989999771
+Order Item Product Price,25%,50.0,50.0
+Order Item Product Price,50%,65.0,59.99000168
+Order Item Product Price,75%,199.9900055,199.9900055
+Order Item Product Price,max,1999.98999,1999.98999
+Order Item Profit Ratio,count,81542.0,98977.0
+Order Item Profit Ratio,mean,0.12183745792135342,0.11966557885411762
+Order Item Profit Ratio,std,0.4643687928798767,0.4687855612784705
+Order Item Profit Ratio,min,-2.75,-2.75
+Order Item Profit Ratio,25%,0.079999998,0.079999998
+Order Item Profit Ratio,50%,0.270000011,0.270000011
+Order Item Profit Ratio,75%,0.360000014,0.360000014
+Order Item Profit Ratio,max,0.5,0.5
+Order Item Quantity,count,81542.0,98977.0
+Order Item Quantity,mean,2.127860489073116,2.1274538529153237
+Order Item Quantity,std,1.4532820202118213,1.453598392580536
+Order Item Quantity,min,1.0,1.0
+Order Item Quantity,25%,1.0,1.0
+Order Item Quantity,50%,1.0,1.0
+Order Item Quantity,75%,3.0,3.0
+Order Item Quantity,max,5.0,5.0
+Sales,count,81542.0,98977.0
+Sales,mean,204.29152765618974,203.34416344442468
+Sales,std,133.81291241686918,130.9900192028191
+Sales,min,9.989999771,9.989999771
+Sales,25%,119.9800034,119.9800034
+Sales,50%,199.9199982,199.9199982
+Sales,75%,299.9500122,299.9500122
+Sales,max,1999.98999,1999.98999
+Order Profit Per Order,count,81542.0,98977.0
+Order Profit Per Order,mean,22.40380775984874,21.621706878333054
+Order Profit Per Order,std,103.16325314161827,105.46775400286421
+Order Profit Per Order,min,-3366.0,-4274.97998
+Order Profit Per Order,25%,7.170000076,6.860000134
+Order Profit Per Order,50%,31.68000031,31.43000031
+Order Profit Per Order,75%,65.0,64.73999786
+Order Profit Per Order,max,864.0,911.7999878
+Product Category Id,count,81542.0,98977.0
+Product Category Id,mean,31.821270020357606,31.876314699374603
+Product Category Id,std,15.62034750710066,15.656323708955192
+Product Category Id,min,2.0,2.0
+Product Category Id,25%,18.0,18.0
+Product Category Id,50%,29.0,29.0
+Product Category Id,75%,45.0,45.0
+Product Category Id,max,76.0,76.0
+Product Price,count,81542.0,98977.0
+Product Price,mean,141.56742410153484,140.95666452298778
+Product Price,std,141.26663911585723,138.455924178726
+Product Price,min,9.989999771,9.989999771
+Product Price,25%,50.0,50.0
+Product Price,50%,65.0,59.99000168
+Product Price,75%,199.9900055,199.9900055
+Product Price,max,1999.98999,1999.98999
+Product Status,count,81542.0,98977.0
+Product Status,mean,0.0,0.0
+Product Status,std,0.0,0.0
+Product Status,min,0.0,0.0
+Product Status,25%,0.0,0.0
+Product Status,50%,0.0,0.0
+Product Status,75%,0.0,0.0
+Product Status,max,0.0,0.0
+Order Month,count,81542.0,98977.0
+Order Month,mean,6.225748693924603,6.243440395243339
+Order Month,std,3.4024959476571643,3.4044526263499604
+Order Month,min,1.0,1.0
+Order Month,25%,3.0,3.0
+Order Month,50%,6.0,6.0
+Order Month,75%,9.0,9.0
+Order Month,max,12.0,12.0
+Order Weekday,count,81542.0,98977.0
+Order Weekday,mean,3.0051507198744205,3.0096588096224375
+Order Weekday,std,2.000735190347025,2.002203275810554
+Order Weekday,min,0.0,0.0
+Order Weekday,25%,1.0,1.0
+Order Weekday,50%,3.0,3.0
+Order Weekday,75%,5.0,5.0
+Order Weekday,max,6.0,6.0
+Order Year,count,81542.0,98977.0
+Order Year,mean,2015.9731426749406,2015.9695080675308
+Order Year,std,0.8299230712641539,0.8290219989965525
+Order Year,min,2015.0,2015.0
+Order Year,25%,2015.0,2015.0
+Order Year,50%,2016.0,2016.0
+Order Year,75%,2017.0,2017.0
+Order Year,max,2018.0,2018.0
+Order Hour,count,81542.0,98977.0
+Order Hour,mean,11.124855902479704,11.779312365499056
+Order Hour,std,6.905817356730952,6.923210019245021
+Order Hour,min,0.0,0.0
+Order Hour,25%,5.0,6.0
+Order Hour,50%,11.0,12.0
+Order Hour,75%,17.0,18.0
+Order Hour,max,23.0,23.0

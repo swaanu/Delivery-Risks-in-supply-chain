@@ -1,0 +1,120 @@
+,coefficient
+Order Status_PROCESSING,4.070462024423802
+Order Status_PENDING,3.9487178096849664
+Order Status_CLOSED,1.5016694188207467
+Type_DEBIT,1.263628560392302
+Order Status_COMPLETE,1.0666172259340112
+Type_PAYMENT,1.0433825491620643
+Order Status_PENDING_PAYMENT,1.001763758411344
+Order Status_ON_HOLD,0.4993921061551639
+Order Status_PAYMENT_REVIEW,0.24013270592730804
+Order Hour,0.11663927657699497
+Order Region_East of USA,0.07479543780688179
+Order Region_West of USA ,0.06726235910216538
+Order Region_South of  USA ,0.05940270852060055
+Order Region_US Center ,0.05428615757867624
+Order Region_Western Europe,0.02896870526795035
+Market_Europe,0.025768739919493643
+Order Region_Central Africa,0.019669537930651106
+Category Name_Fishing,0.019505843049338178
+Market_LATAM,0.018481281707276614
+Market_Pacific Asia,0.018471301859092525
+Department Name_Outdoors,0.01759752072163351
+Order Region_Central America,0.015348678913998381
+Order Region_Southeast Asia,0.013762332116059999
+Order Region_East Africa,0.013680130559643677
+Order Item Quantity,0.012946998780460649
+Order Region_South America,0.012542506732188182
+Order Region_North Africa,0.012157205945715637
+Order Region_Oceania,0.010439341429169321
+Category Name_Computers,0.009698049430698928
+Category Name_Crafts,0.008784559387148925
+Order Region_Central Asia,0.008073641915132348
+Category Name_Garden,0.0073787493482971615
+Order Region_Southern Europe,0.007265926920057245
+Order Region_Eastern Asia,0.006965181282405523
+Category Name_Camping & Hiking,0.006583648210409145
+Category Name_Lacrosse,0.006553103337022085
+Category Name_Music,0.005976220193983193
+Category Name_Girls' Apparel,0.0055222022264255965
+Category Name_Golf Bags & Carts,0.005056761043768124
+Category Name_Fitness Accessories,0.004868983408320501
+Category Name_Children's Clothing,0.004731046715904439
+Department Name_Fan Shop,0.004685577119151696
+Category Name_As Seen on  TV!,0.004380267608956224
+Category Name_Women's Clothing,0.004050310237871934
+Department Name_Discs Shop,0.003737712712314245
+Category Name_Sporting Goods,0.003530488408599175
+Order Region_Southern Africa,0.003513921479038603
+Department Name_Technology,0.003505240513421531
+Order Item Discount Rate,0.0033815213930427175
+Order Region_South Asia,0.0031212333658495357
+Category Name_Strength Training,0.0024353397792453565
+Order Region_Eastern Europe,0.002348545763767547
+Category Name_Toys,0.0021389163426997937
+Category Name_DVDs,0.0020813612051639916
+Category Name_Video Games,0.0020325116436505928
+Category Name_Basketball,0.0018680640212129856
+Department Name_Health and Beauty ,0.0017436143800126376
+Category Name_Health and Beauty,0.001743614380007317
+Customer Segment_Home Office,0.0016732992775433738
+Category Name_Boxing & MMA,0.0015722772392348496
+Category Name_Baby ,0.0013058046471825498
+Category Name_Tennis & Racquet,0.0011708222845325338
+Department Name_Book Shop,0.0011246361111813196
+Category Name_Books ,0.0011246361111813196
+Category Name_Kids' Golf Clubs,0.0010722737753505478
+Category Name_Soccer,0.0009205658187883228
+Order Item Profit Ratio,0.0008795294625818816
+Customer Country_Puerto Rico,0.0006479984594361585
+Category Name_Hunting & Shooting,0.0003348688592721449
+Category Name_Cardio Equipment,0.00017298522907414644
+Category Name_Men's Clothing,-0.00010700306769118781
+Order Region_West Africa,-0.00033697987262041614
+Category Name_Cameras ,-0.0005316934126841948
+Category Name_Cleats,-0.0006465904851049457
+Department Name_Footwear,-0.0007114866876866809
+Order Region_West Asia,-0.0009868000263776409
+Department Name_Fitness,-0.001058786509830593
+Order Item Discount,-0.0014026222418985729
+Category Name_Electronics,-0.0016241987366072722
+Department Name_Pet Shop,-0.0019210866855798813
+Category Name_Pet Supplies,-0.0019210866855798813
+Order Year,-0.0020800096550784223
+Order Item Product Price,-0.0021842270928687075
+Product Price,-0.0021842270928687075
+Category Name_Consumer Electronics,-0.0026355799357038177
+Category Name_Hockey,-0.003220300971157887
+Category Name_Golf Shoes,-0.0032259197023236427
+Order Region_Northern Europe,-0.0033422955444818267
+Order Region_Caribbean,-0.003348562687923526
+Category Name_CDs ,-0.0038507722666513504
+Category Name_Golf Gloves,-0.004057915263348782
+Longitude,-0.004448046306250865
+Category Name_Women's Golf Clubs,-0.004497313139089784
+Order Month,-0.0046739170050612
+Category Name_Trade-In,-0.006665346193170551
+Category Name_Shop By Sport,-0.006970353450719584
+Latitude,-0.007071275090487092
+Benefit per order,-0.007477750021529566
+Order Profit Per Order,-0.00747775002153014
+Category Name_Golf Balls,-0.0076397974614232965
+Category Name_Baseball & Softball,-0.008189739094371805
+Category Name_Water Sports,-0.00852467600340541
+Order Weekday,-0.009258318915027762
+Category Name_Women's Apparel,-0.009574680483545627
+Category Name_Indoor/Outdoor Games,-0.0095918071254293
+Category Name_Men's Footwear,-0.009617681425731463
+Customer Segment_Corporate,-0.01063465871760974
+Category Name_Golf Apparel,-0.01097879597581034
+Department Name_Golf,-0.011069797960890576
+Sales,-0.014179071330152605
+Category Name_Men's Golf Clubs,-0.014554952473292611
+Sales per customer,-0.01535618122436791
+Market_USCA,-0.0935136748443867
+Shipping Mode_Standard Class,-1.810629392548343
+Shipping Mode_Second Class,-1.999043610983447
+Days for shipment (scheduled),-2.1596351184139944
+Shipping Mode_Same Day,-2.174522964862596
+Order Status_SUSPECTED_FRAUD,-2.7240884731421438
+Type_TRANSFER,-3.3998143096473

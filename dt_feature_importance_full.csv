@@ -1,0 +1,120 @@
+,importance
+Days for shipment (scheduled),0.530392191525239
+Order Hour,0.15071395801953694
+Order Status_SUSPECTED_FRAUD,0.09834034856733385
+Shipping Mode_Same Day,0.08438913515525635
+Order Status_PROCESSING,0.04697045201742298
+Order Status_PENDING,0.043808784633815046
+Latitude,0.011021119997705043
+Longitude,0.007404224727627769
+Type_TRANSFER,0.005578010630865013
+Order Month,0.003086006976678997
+Customer Segment_Corporate,0.0019285949123146685
+Market_LATAM,0.0018683000919793628
+Order Weekday,0.001602657374706441
+Order Year,0.0012158982976873901
+Order Region_East of USA,0.0010545261808185779
+Order Status_PENDING_PAYMENT,0.0010141044970137462
+Order Region_Western Europe,0.0008876306659402059
+Order Region_Eastern Asia,0.00079453029442375
+Sales,0.0006639891140948047
+Order Region_Eastern Europe,0.0006083505248972878
+Order Region_East Africa,0.0005660378536479654
+Customer Segment_Home Office,0.000565284941153648
+Order Region_Southeast Asia,0.0005505119252245126
+Order Region_West of USA ,0.0004499033885609882
+Benefit per order,0.0004380035647513515
+Order Region_US Center ,0.00043745406473560375
+Order Region_West Asia,0.00040320362536059613
+Order Item Profit Ratio,0.00032439187394629217
+Order Region_West Africa,0.00030238916190049406
+Order Status_PAYMENT_REVIEW,0.0002913118921063151
+Order Status_ON_HOLD,0.0002708396212440725
+Department Name_Footwear,0.00026146016447722105
+Order Status_COMPLETE,0.0002226026774228774
+Order Region_Oceania,0.00022193115069786245
+Order Profit Per Order,0.00021854678243156948
+Order Item Discount,0.00021069391102028463
+Department Name_Technology,0.00015145741892339434
+Order Region_Southern Europe,0.00011393610196014413
+Order Region_Northern Europe,9.336619507250046e-05
+Category Name_Women's Clothing,9.100430291586675e-05
+Order Region_Southern Africa,8.082140313902473e-05
+Order Region_South Asia,7.94980117425961e-05
+Category Name_Cleats,7.812735636772376e-05
+Category Name_Golf Shoes,7.353674868362758e-05
+Order Item Product Price,6.949463216458038e-05
+Order Region_Central America,5.4826214994893883e-05
+Order Item Discount Rate,3.655080999659594e-05
+Category Name_Baseball & Softball,0.0
+Category Name_Baby ,0.0
+Sales per customer,0.0
+Order Item Quantity,0.0
+Type_PAYMENT,0.0
+Category Name_As Seen on  TV!,0.0
+Product Price,0.0
+Type_DEBIT,0.0
+Category Name_Men's Golf Clubs,0.0
+Category Name_Men's Footwear,0.0
+Category Name_Men's Clothing,0.0
+Category Name_Lacrosse,0.0
+Category Name_Kids' Golf Clubs,0.0
+Category Name_Indoor/Outdoor Games,0.0
+Category Name_Hunting & Shooting,0.0
+Category Name_Hockey,0.0
+Category Name_Health and Beauty,0.0
+Category Name_Golf Gloves,0.0
+Category Name_Golf Balls,0.0
+Category Name_Golf Bags & Carts,0.0
+Category Name_Girls' Apparel,0.0
+Category Name_Golf Apparel,0.0
+Category Name_Garden,0.0
+Category Name_Fitness Accessories,0.0
+Category Name_CDs ,0.0
+Category Name_Fishing,0.0
+Category Name_Electronics,0.0
+Category Name_DVDs,0.0
+Category Name_Crafts,0.0
+Category Name_Consumer Electronics,0.0
+Category Name_Computers,0.0
+Category Name_Children's Clothing,0.0
+Category Name_Books ,0.0
+Category Name_Cardio Equipment,0.0
+Category Name_Camping & Hiking,0.0
+Category Name_Cameras ,0.0
+Category Name_Basketball,0.0
+Category Name_Boxing & MMA,0.0
+Category Name_Music,0.0
+Category Name_Pet Supplies,0.0
+Order Region_Caribbean,0.0
+Market_USCA,0.0
+Market_Pacific Asia,0.0
+Market_Europe,0.0
+Department Name_Outdoors,0.0
+Department Name_Pet Shop,0.0
+Department Name_Golf,0.0
+Department Name_Health and Beauty ,0.0
+Department Name_Book Shop,0.0
+Department Name_Discs Shop,0.0
+Department Name_Fitness,0.0
+Department Name_Fan Shop,0.0
+Category Name_Women's Apparel,0.0
+Category Name_Water Sports,0.0
+Category Name_Women's Golf Clubs,0.0
+Customer Country_Puerto Rico,0.0
+Category Name_Soccer,0.0
+Category Name_Shop By Sport,0.0
+Category Name_Strength Training,0.0
+Category Name_Sporting Goods,0.0
+Category Name_Video Games,0.0
+Category Name_Trade-In,0.0
+Category Name_Tennis & Racquet,0.0
+Category Name_Toys,0.0
+Order Region_South of  USA ,0.0
+Order Region_South America,0.0
+Order Region_Central Asia,0.0
+Order Region_North Africa,0.0
+Order Region_Central Africa,0.0
+Order Status_CLOSED,0.0
+Shipping Mode_Second Class,0.0
+Shipping Mode_Standard Class,0.0
