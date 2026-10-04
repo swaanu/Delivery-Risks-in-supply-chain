@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets & Large Pickles (>40MB)
+*.csv.zip
+DataCoSupplyChainDataset.csv
+*.pkl
+*.pickle
+
+# Output directories & caches
+outputs/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
